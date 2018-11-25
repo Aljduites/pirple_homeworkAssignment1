@@ -1,6 +1,6 @@
 # pirple_homeworkAssignment1
 
-My first Homework assignment for Pirple's NodeJS Master class
+First Homework assignment for Pirple's NodeJS Master class
 
 ## Download / Installation
 
